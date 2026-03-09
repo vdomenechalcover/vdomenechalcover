@@ -2,7 +2,7 @@
 
 | Proyecto | Stack Tecnológico | Enlace |
 | :--- | :--- | :--- |
-| **Auri Finance** | Next.js, Framer Motion, Tailwind CSS, TypeScript | [aurifinance.com](https://aurifinance.com/) |
+| **Auri Finance** | Next.js, Framer Motion, Tailwind CSS, TypeScript | [aurifinance.com](https://aurifinanceweb.netlify.app/) |
 | **The Bigfoot Bar** | Astro, Supabase, Tailwind CSS, TypeScript | [thebigfootbar.com](https://thebigfootbar.com/) |
 
 ---
