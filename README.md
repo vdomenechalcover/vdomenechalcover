@@ -1,8 +1,6 @@
-# ¡Buenas! Soy Víctor 👋 
+# ¡Buenas! 👋 
 
-### ⚡ Desarrollador Frontend | 🛡️ Entusiasta de la Ciberseguridad
-
-Me dedico a construir interfaces que vuelan y a asegurar que nadie las rompa. Mi filosofía: **Si no es rápido, no sirve. Si no es seguro, no existe.**
+### ⚡ Desarrollador Frontend | 🛡️ Ciberseguridad
 
 ## 🚀 Proyectos Destacados en Producción
 
@@ -28,7 +26,6 @@ Me dedico a construir interfaces que vuelan y a asegurar que nadie las rompa. Mi
 ---
 
 ### 🛡️ Seguridad & Hardening
-No solo escribo código, también me gusta entender cómo se rompe para hacerlo más fuerte. Manejo de **cabeceras de seguridad**, auditoría de dependencias y mentalidad defensiva en el flujo de datos.
 
 ### 🛠️ Tech Stack
 - **Frontend:** Astro, Next.js, React, TypeScript.
