@@ -1,25 +1,37 @@
+# ¡Buenas! Soy Víctor 👋 
+
+### ⚡ Desarrollador Frontend | 🛡️ Entusiasta de la Ciberseguridad
+
+Me dedico a construir interfaces que vuelan y a asegurar que nadie las rompa. Mi filosofía: **Si no es rápido, no sirve. Si no es seguro, no existe.**
+
 ## 🚀 Proyectos Destacados en Producción
 
 | Proyecto | Stack Tecnológico | Enlace |
 | :--- | :--- | :--- |
-| **Auri Finance** | Next.js, Framer Motion, Tailwind CSS, TypeScript | [aurifinance.com](https://aurifinanceweb.netlify.app/) |
-| **The Bigfoot Bar** | Astro, Supabase, Tailwind CSS, TypeScript | [thebigfootbar.com](https://thebigfootbar.com/) |
+| **Auri Finance** | Next.js, Framer Motion, Tailwind | [aurifinance.com](https://aurifinanceweb.netlify.app/) |
+| **The Bigfoot Bar** | Astro, Supabase, TypeScript | [thebigfootbar.com](https://thebigfootbar.com/) |
 
 ---
 
 ### 💎 Casos de Estudio
 
 #### 📈 [Auri Finance](https://aurifinanceweb.netlify.app/)
-> **Fintech & UX Premium**: Desarrollo de una interfaz financiera de alto impacto visual. Enfocado en la confianza del usuario mediante animaciones fluidas con Framer Motion, optimización de conversión (CRO) y una arquitectura de componentes escalable y tipada rigurosamente.
+<img src="img/aurifinance.avif" width="600" alt="Auri Finance Preview" />
+
+> **Fintech & UX Premium**: Desarrollo de una interfaz financiera de alto impacto visual. Enfocado en la confianza del usuario mediante animaciones fluidas y una arquitectura blindada y tipada rigurosamente.
 
 #### 🦍 [The Bigfoot Bar](https://thebigfootbar.com/)
-> **Performance & Local SEO**: Pub de referencia en Palma de Mallorca. Implementación de una arquitectura orientada a rendimiento radical (**LCP < 2s**) y SEO técnico local profundo (JSON-LD dinámico). Despliegue automatizado con CI/CD y backend serverless.
+<img src="img/thebigfootbar.avif" width="600" alt="The Bigfoot Bar Preview" />
+
+> **Performance & Local SEO**: Pub de referencia en Palma de Mallorca. Arquitectura orientada a rendimiento radical (**LCP < 2s**) y SEO técnico local profundo (JSON-LD dinámico).
 
 ---
 
-### 🛠️ Tech Stack & Herramientas
+### 🛡️ Seguridad & Hardening
+No solo escribo código, también me gusta entender cómo se rompe para hacerlo más fuerte. Manejo de **cabeceras de seguridad**, auditoría de dependencias y mentalidad defensiva en el flujo de datos.
 
+### 🛠️ Tech Stack
 - **Frontend:** Astro, Next.js, React, TypeScript.
-- **Estilos:** Tailwind CSS, CSS Modules, Framer Motion.
+- **Estilos:** Tailwind CSS, Framer Motion.
 - **Backend & DB:** Supabase (PostgreSQL), Edge Functions.
-- **Herramientas:** Git, Netlify/Vercel, Postman, Google Search Console.
+- **Herramientas:** Git, Linux, Google Search Console, Postman.
