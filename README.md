@@ -7,7 +7,7 @@
 | Proyecto | Stack Tecnológico | Enlace |
 | :--- | :--- | :--- |
 | **The Bigfoot Bar** | Astro, TypeScript, Tailwind CSS, Netlify | [thebigfootbar.com](https://thebigfootbar.com/) |
-| **Auri Finance** | Astro, TypeScript, Tailwind CSS, Netlify | [aurifinance.com](https://aurifinance.netlify.app/) |
+| **Auri Finance** | Astro, TypeScript, Tailwind CSS, Netlify | [aurifinance.com](https://aurifinanceweb.netlify.app/) |
 
 ---
 
