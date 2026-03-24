@@ -1,6 +1,6 @@
-# ¡Buenas! 👋 
+# ¡Buenas! 👋 
 
-### ⚡ Desarrollador Frontend | 🛡️ Ciberseguridad
+### ⚡ Desarrollador Frontend | 🛡️ Auditor de Ciberseguridad
 
 ## 🚀 Proyectos Destacados en Producción
 
@@ -12,7 +12,7 @@
 
 ---
 
-### 💎 Casos de Estudio
+### 💎 Casos de Estudio (Desarrollo Web)
 
 #### 🎸 [Soslayo](https://soslayo.es/)
 <img src="img/soslayo.avif" width="600" alt="Soslayo Preview" />
@@ -31,10 +31,26 @@
 
 ---
 
-### 🛡️ Seguridad & Hardening
+### 🛡️ Auditoría ENS & Hacking Ético (Responsible Disclosure)
 
-### 🛠️ Tech Stack
+Durante 2026, he liderado la ejecución de auditorías de seguridad en entornos de producción críticos de diversas **Administraciones Públicas Locales**, logrando el parcheo y mitigación de vulnerabilidades severas bajo estrictos protocolos de confidencialidad (TLP:RED).
+
+#### 🦠 Threat Hunting & RCE (Apache Struts2)
+> Detección de Ejecución Remota de Código (CVE-2017-5638) en un servidor gubernamental. A través de un análisis forense en vivo, identifiqué la presencia de una **botnet de criptominería (Kinsing)** operando de forma encubierta. Extracción exitosa de los Indicadores de Compromiso (IoCs) y configuración del atacante evadiendo las restricciones de privilegios locales.
+
+#### 🧱 Evasión Perimetral & Blind SQL Injection
+> Compromiso integral de una arquitectura web obsoleta mediante técnicas de desincronización **HTTP Request Smuggling**, logrando un *bypass* completo del WAF. De forma concurrente, se documentó y reportó una inyección SQL ciega (*Time-Based*) en el buscador principal con acceso al esquema completo de la base de datos de producción.
+
+#### 🪪 Session Leakage & Parameter Pollution
+> Auditoría de una Sede Electrónica ciudadana que reveló vulnerabilidades críticas de fijación y fuga de sesiones a través de URI. Adicionalmente, se demostró la evasión de la lógica de enrutamiento del contenedor web mediante **HTTP Parameter Pollution (HPP)**, exponiendo la topología interna de la DMZ institucional.
+
+---
+
+### 🛠️ Tech Stack & Herramientas
+
+- **Ciberseguridad & OSINT:** Kali Linux, Nmap, ProxyChains, CLI Networking (cURL, netstat), Análisis de vulnerabilidades web (OWASP Top 10), Metodología ENS / Magerit v3.
 - **Frontend:** Astro, Next.js, React, TypeScript.
-- **Estilos:** Tailwind CSS, Framer Motion.
-- **Backend & DB:** Supabase (PostgreSQL), Edge Functions.
-- **Herramientas:** Git, Linux, Google Search Console, Postman.
+- **Estilos & UI:** Tailwind CSS, Framer Motion.
+- **Backend & DB:** Supabase (PostgreSQL), Edge Functions, Apache HTTPD / Tomcat.
+- **Optimización & Control:** Git, Google Search Console, Google Analytics (GA4), Lighthouse, Postman.
+- **IA & Dev Workflow:** Prompt Engineering, Desarrollo asistido por IA (Gemini, Claude), VS Code.
