@@ -1,6 +1,20 @@
-# ¡Buenas! 👋 
+<div align="center">
+  
+  # 👨‍💻 Víctor Doménech Alcover
+  ### Auditor de Ciberseguridad | Desarrollador Web Full-Stack | Técnico de Sistemas
+  
+  *Con más de 14 años de experiencia en infraestructuras IT, enfoco mi carrera en el **Hacking Ético (Auditoría ENS)**, la investigación forense y el **Desarrollo Frontend de alto rendimiento** asistido por Inteligencia Artificial.*
 
-### ⚡ Desarrollador Frontend | 🛡️ Auditor de Ciberseguridad
+  <br>
+
+  <img src="https://img.shields.io/badge/Ciberseguridad-Threat_Hunting-B30000?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Ciberseguridad">
+  <img src="https://img.shields.io/badge/Auditor%C3%ADa-ENS_&_Magerit-0052CC?style=for-the-badge&logo=shield&logoColor=white" alt="Auditoría">
+  <img src="https://img.shields.io/badge/Desarrollo_Web-Frontend_&_IA-000000?style=for-the-badge&logo=astro&logoColor=white" alt="Desarrollo Web">
+  <img src="https://img.shields.io/badge/Sistemas-Windows_&_Linux-0078D6?style=for-the-badge&logo=microsoft&logoColor=white" alt="Sistemas">
+
+</div>
+
+<br>
 
 ## 🚀 Proyectos Destacados en Producción
 
@@ -34,6 +48,8 @@
 ### 🛡️ Auditoría ENS & Hacking Ético (Responsible Disclosure)
 
 Durante 2026, he liderado la ejecución de auditorías de seguridad en entornos de producción críticos de diversas **Administraciones Públicas Locales**, logrando el parcheo y mitigación de vulnerabilidades severas bajo estrictos protocolos de confidencialidad (TLP:RED).
+
+> 🏆 **Reconocimiento Oficial e Impacto Real:** Tras la ejecución estricta del protocolo de *Responsible Disclosure*, **las tres entidades gubernamentales afectadas han respondido y validado oficialmente la exactitud de mis informes técnicos**, confirmando el inicio inmediato de los planes de contención, remediación y bastionado en sus infraestructuras.
 
 #### 🦠 Threat Hunting & RCE (Apache Struts2)
 > Detección de Ejecución Remota de Código (CVE-2017-5638) en un servidor gubernamental. A través de un análisis forense en vivo, identifiqué la presencia de una **botnet de criptominería (Kinsing)** operando de forma encubierta. Extracción exitosa de los Indicadores de Compromiso (IoCs) y configuración del atacante evadiendo las restricciones de privilegios locales.
